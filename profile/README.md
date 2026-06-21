@@ -38,15 +38,15 @@ We rely on a proven, modern technology stack to bring our projects to life. Here
 
 ---
 
-### 👥 The Engineering Team
+### 👥 Development Team
 
-Great software is built by great people. Meet the engineers behind Northstar Dynamics.
+Great software is built by great people. Meet the developers behind Northstar Dynamics.
 
 <br>
 
 <table align="center" style="width: 100%; max-width: 900px;">
   <tr>
-<td align="center" width="25%" valign="top">
+    <td align="center" width="25%" valign="top">
       <br>
       <a href="https://github.com/westalley">
         <img src="https://avatars.githubusercontent.com/u/290384954?v=4" width="140" alt="walley"/>
@@ -54,11 +54,10 @@ Great software is built by great people. Meet the engineers behind Northstar Dyn
       <br><br>
       <h2><b>walley</b></h2>
       <a href="https://github.com/westalley">
-        <img src="https://img.shields.io/badge/LEAD%20ENGINEER-E3B341?style=for-the-badge&logo=github&logoColor=white" alt="Lead Engineer"/>
+        <img src="https://img.shields.io/badge/LEAD%20DEVELOPER-E3B341?style=for-the-badge&logo=github&logoColor=white" alt="Lead Developer"/>
       </a>
       <br><br>
-      <code>System Architecture</code><br><br>
-      <code>Core Engineering</code>
+      Supervisor<br>Developer
       <br><br>
     </td>
     <td align="center" width="25%" valign="top">
@@ -69,11 +68,10 @@ Great software is built by great people. Meet the engineers behind Northstar Dyn
       <br><br>
       <h2><b>westlouche</b></h2>
       <a href="https://github.com/westlouche">
-        <img src="https://img.shields.io/badge/SOFTWARE%20ENGINEER-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Software Engineer"/>
+        <img src="https://img.shields.io/badge/SOFTWARE%20DEVELOPER-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Software Developer"/>
       </a>
       <br><br>
-      <code>Full-Stack Dev</code><br><br>
-      <code>Product Logic</code>
+      Team Leader<br>Developer
       <br><br>
     </td>
     <td align="center" width="25%" valign="top">
@@ -84,11 +82,10 @@ Great software is built by great people. Meet the engineers behind Northstar Dyn
       <br><br>
       <h2><b>quick cuty</b></h2>
       <a href="https://github.com/realcutysucks">
-        <img src="https://img.shields.io/badge/SOFTWARE%20ENGINEER-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Software Engineer"/>
+        <img src="https://img.shields.io/badge/SOFTWARE%20DEVELOPER-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Software Developer"/>
       </a>
       <br><br>
-      <code>Application UI</code><br><br>
-      <code>Frontend Integration</code>
+      Team Member<br>Developer
       <br><br>
     </td>
     <td align="center" width="25%" valign="top">
@@ -99,15 +96,15 @@ Great software is built by great people. Meet the engineers behind Northstar Dyn
       <br><br>
       <h2><b>runouts</b></h2>
       <a href="https://github.com/runouts">
-        <img src="https://img.shields.io/badge/DATABASE%20ENGINEER-16A34A?style=for-the-badge&logo=github&logoColor=white" alt="Database Engineer"/>
+        <img src="https://img.shields.io/badge/DATABASE%20DEVELOPER-16A34A?style=for-the-badge&logo=github&logoColor=white" alt="Database Developer"/>
       </a>
       <br><br>
-      <code>Data Architecture</code><br><br>
-      <code>Query Optimization</code>
+      Team Member<br>Developer
       <br><br>
     </td>
   </tr>
 </table>
+
 <br>
 
 > [!NOTE]  
