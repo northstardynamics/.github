@@ -9,9 +9,8 @@
 
 <br>
 
-> [!IMPORTANT]
-> **Who We Are**  
-> **Northstar Dynamics** is a private, specialized software engineering group. Headquartered in **St Albans, United Kingdom**, we work in seamless collaboration with our dedicated developer hub in **Turkey**. We are a closed team of professionals, focusing our combined expertise on delivering high-quality, practical software products.
+> [!IMPORTANT] 
+> Northstar Dynamics is a private, specialized software engineering group. We are a closed team of professionals, focusing our combined expertise on delivering high-quality, practical software products.
 
 ---
 
@@ -48,30 +47,30 @@ Great software is built by great people. Meet the developers behind Northstar Dy
   <tr>
     <td align="center" width="25%" valign="top">
       <br>
-      <a href="https://github.com/westalley">
-        <img src="https://avatars.githubusercontent.com/u/290384954?v=4" width="140" alt="walley"/>
-      </a>
-      <br><br>
-      <h2><b>walley</b></h2>
-      <a href="https://github.com/westalley">
-        <img src="https://img.shields.io/badge/LEAD%20DEVELOPER-E3B341?style=for-the-badge&logo=github&logoColor=white" alt="Lead Developer"/>
-      </a>
-      <br><br>
-      Supervisor<br>Developer
-      <br><br>
-    </td>
-    <td align="center" width="25%" valign="top">
-      <br>
       <a href="https://github.com/westlouche">
         <img src="https://avatars.githubusercontent.com/u/100082054?s=130&v=4" width="140" alt="westlouche"/>
       </a>
       <br><br>
       <h2><b>westlouche</b></h2>
       <a href="https://github.com/westlouche">
-        <img src="https://img.shields.io/badge/SOFTWARE%20DEVELOPER-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Software Developer"/>
+        <img src="https://img.shields.io/badge/LEAD%20DEVELOPER-E3B341?style=for-the-badge&logo=github&logoColor=white" alt="Lead Developer"/>
       </a>
       <br><br>
       Team Leader<br>Developer
+      <br><br>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <br>
+      <a href="https://github.com/westalley">
+        <img src="https://avatars.githubusercontent.com/u/290384954?v=4" width="140" alt="walley"/>
+      </a>
+      <br><br>
+      <h2><b>walley</b></h2>
+      <a href="https://github.com/westalley">
+        <img src="https://img.shields.io/badge/SOFTWARE%20DEVELOPER-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Software Developer"/>
+      </a>
+      <br><br>
+      Assistant<br>Developer
       <br><br>
     </td>
     <td align="center" width="25%" valign="top">
