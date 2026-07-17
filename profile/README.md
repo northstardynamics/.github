@@ -65,7 +65,7 @@ Great software is built by great people. Meet the developers behind Northstar Dy
         <img src="https://avatars.githubusercontent.com/u/290384954?v=4" width="140" alt="walley"/>
       </a>
       <br><br>
-      <h2><b>westy</b></h2>
+      <h2><b>walley</b></h2>
       <a href="https://github.com/westalley">
         <img src="https://img.shields.io/badge/SOFTWARE%20DEVELOPER-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Software Developer"/>
       </a>
