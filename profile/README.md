@@ -10,7 +10,7 @@
 <br>
 
 > [!IMPORTANT]  
-> Merhaba, geliştirici. <br> Bu bir işe alım sayfası değildir. <br> **Team Boo**, kapalı bir yazılım geliştirme ekibidir. Aramıza yeni takım arkadaşları aramıyoruz, dış bağlantılar kurmuyoruz ve aynı zamanda açık kaynaklı katkı kabul etmiyoruz. Tanıtım sayfamıza göz attığınız için teşekkür ederiz!
+> Merhaba, geliştirici. <br> Bu bir işe alım sayfası değildir. <br> **[Team Boo](https://github.com/weareboo)**, kapalı bir yazılım geliştirme ekibidir. Aramıza yeni takım arkadaşları aramıyoruz, dış bağlantılar kurmuyoruz ve aynı zamanda açık kaynaklı katkı kabul etmiyoruz. Tanıtım sayfamıza göz attığınız için teşekkür ederiz!
 
 ---
 
@@ -42,6 +42,8 @@ Başarılı yazılımlar, başarılı insanlar tarafından geliştirilir. Başar
       </a>
       <br><br>
       Geliştirici
+      <br>
+      <sub>diğer adıyla: westy</sub>
       <br><br>
     </td>
     <td align="center" width="25%" valign="top" style="border: none;">
@@ -50,12 +52,14 @@ Başarılı yazılımlar, başarılı insanlar tarafından geliştirilir. Başar
         <img src="https://avatars.githubusercontent.com/u/290384954?v=4" width="130" style="border-radius: 50%;" alt="walley"/>
       </a>
       <br><br>
-      <h2><b>walley</b></h2>
-      <a href="https://github.com/westalley">
+      <h2><b>yey</b></h2>
+      <a href="https://github.com/milkycools">
         <img src="https://img.shields.io/badge/GELİŞTİRİCİ-89CFF0?style=for-the-badge&logo=github&logoColor=white" alt="Dev"/>
       </a>
       <br><br>
       Geliştirici
+      <br>
+      <sub>diğer adıyla: walley</sub>
       <br><br>
     </td>
     <td align="center" width="25%" valign="top" style="border: none;">
