@@ -48,7 +48,7 @@ Başarılı yazılımlar, başarılı insanlar tarafından geliştirilir. Başar
     </td>
     <td align="center" width="25%" valign="top" style="border: none;">
       <br>
-      <a href="https://github.com/westalley">
+      <a href="https://github.com/milkycools">
         <img src="https://avatars.githubusercontent.com/u/290384954?v=4" width="130" style="border-radius: 50%;" alt="walley"/>
       </a>
       <br><br>
