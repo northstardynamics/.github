@@ -14,7 +14,7 @@
 
 ---
 
-### ☁️ Yaklaşımımız:
+### ☁️ Yaklaşımımız
 
 İşi çok karmaşıklaştırmadan, arka planda tıkır tıkır işleyen yapılar kurmayı seviyoruz. İster bir veritabanı mimarisi, ister sunucu taraflı bir sistem olsun; asıl amacımız her zaman **kullanırken yormayan, güvenilir ve hafif yazılımlar** ortaya çıkarmak. 
 
@@ -22,7 +22,7 @@ Kendi içimizde kapalı bir grup olarak hareket ettiğimiz için, projelerimizin
 
 ---
 
-### 👻 Takımımız:
+### 👻 Takımımız
 
 Başarılı yazılımlar, başarılı insanlar tarafından geliştirilir. Başarının ardındaki harika takımımızla tanışın!
 
